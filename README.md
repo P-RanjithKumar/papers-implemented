@@ -20,15 +20,7 @@ Here is a list of the papers that have been re-implemented so far:
    - [Link to the original paper](#)
    - [Description of the paper's goal and the re-implementation approach]
    
-2. **[Paper 2 Title]**
-   - [Link to the original paper](#)
-   - [Description of the paper's goal and the re-implementation approach]
 
-3. **[Paper 3 Title]**
-   - [Link to the original paper](#)
-   - [Description of the paper's goal and the re-implementation approach]
-
-*(Add more papers as needed)*
 
 ## Repository Structure
 
@@ -45,7 +37,4 @@ Each paper has its own directory containing:
 
 To get started with any of the re-implementations:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
 
