@@ -34,3 +34,18 @@ Here is a list of the papers that have been re-implemented so far:
 
 The repository follows the structure below:
 
+
+Each paper has its own directory containing:
+- `README.md` — A brief explanation of the paper and how to use the re-implementation.
+- `code/` — The source code files for the re-implementation.
+- `data/` — The datasets used (if any). Note that large datasets may not be included and should be downloaded separately.
+- `results/` — The results and outputs of the experiments (e.g., figures, logs).
+
+## Getting Started
+
+To get started with any of the re-implementations:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repository-name.git
+
